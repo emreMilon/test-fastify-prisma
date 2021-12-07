@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fastify": "^3.24.1",
+    "fastify-swagger": "^4.12.6"
+  },
+  "devDependencies": {
+    "@prisma/client": "^3.6.0",
+    "fastify-plugin": "^3.0.0",
+    "prisma": "^3.6.0"
+  }
+}
